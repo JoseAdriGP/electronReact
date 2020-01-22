@@ -2,7 +2,7 @@
   "name": "electronReact",
   "version": "1.0.0",
   "description": "electronReact",
-  "main": "main.js",
+  "main": "dist/main.js",
   "scripts": {
     "build:react": "webpack --mode development --config webpack.react.config.js",
     "build": "webpack --mode development",
