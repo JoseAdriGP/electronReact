@@ -44,7 +44,7 @@ connection.onDisconnect = () => {
     console.log("lost");
 };
 
-connection.send("greeting", "Mom from C#", (response: any) => {
+connection.send("greeting", "THE WORLD", (response: any) => {
     window.webContents.send("greeting", response);
     connection.close();
 });
