@@ -1,0 +1,10 @@
+2020-01-22 09:29:48.894 +01:00 [ERR] 
+ElectronCgi.DotNet.NoRequestHandlerFoundException: No request handler found for request type: REQUEST
+   at ElectronCgi.DotNet.Connection.FindHandler(String requestType)
+   at ElectronCgi.DotNet.Connection.HandleRequestAsync(Request request)
+   at ElectronCgi.DotNet.Connection.StartAsync(Stream inputStream, TextWriter writer)
+2020-01-22 09:31:58.367 +01:00 [ERR] 
+ElectronCgi.DotNet.NoRequestHandlerFoundException: No request handler found for request type: REQUEST
+   at ElectronCgi.DotNet.Connection.FindHandler(String requestType)
+   at ElectronCgi.DotNet.Connection.HandleRequestAsync(Request request)
+   at ElectronCgi.DotNet.Connection.StartAsync(Stream inputStream, TextWriter writer)
