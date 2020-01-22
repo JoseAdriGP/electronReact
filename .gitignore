@@ -3,4 +3,4 @@ package-lock.json
 .idea/
 core/Core.DotSettings.user
 dist/
-release-builds
+release-builds/
